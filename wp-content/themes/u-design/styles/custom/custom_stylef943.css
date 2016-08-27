@@ -1,0 +1,128 @@
+/* Custom Styles */
+body, #page-content-title .title-description { font-family:'Enriqueta'; }
+body { font-size:13px; }
+h1, h2, h3, h4, h5, h6, #slogan, .single-post-categories { font-family:'Source Sans Pro'; }
+#top-elements { height:130px; }
+#logo h1 a, #logo .site-name a { background:transparent url( ../../../../uploads/2014/09/Greenblock-Logo.jpg) no-repeat 0 100%; width:470px; height:108px; }       
+#slogan { 
+    top:100px;
+    left:0px;
+}
+#slogan { font-size:12px; }
+.js_on .cufon-on #slogan { font-size:14px; }
+#navigation-menu { font-family:'Source Sans Pro'; }
+#navigation-menu { font-size:20px; }
+    #main-menu { background:none; }
+h1 {font-size:1.883em !important; }
+h2 {font-size:1.667em !important; }
+h3 {font-size:1.5em !important; }
+h4 {font-size:1.333em !important; }
+h5 {font-size:1.25em !important; }
+h6 {font-size:1.083em !important; }
+.js_on .cufon-on h1 {font-size:2.3em !important; }
+.js_on .cufon-on h2 {font-size:2.18em !important; }
+.js_on .cufon-on h3 {font-size:1.883em !important; }
+.js_on .cufon-on h4 {font-size:1.667em !important; }
+.js_on .cufon-on h5 {font-size:1.5em !important; }
+.js_on .cufon-on h6 {font-size:1.333em !important; }
+
+    
+#page-content-title #page-title h1,
+#page-content-title #page-title h2,
+#page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories {font-size:1.883em !important;}
+
+.js_on .cufon-on #page-content-title #page-title h1,
+.js_on .cufon-on #page-content-title #page-title h2,
+.js_on .cufon-on #page-content-title #page-title h3,
+.js_on .cufon-on #page-content-title #page-title .single-post-categories {font-size:2.3em !important;}
+
+.post-top h1, .post-top h2, .post-top h3 {font-size:1.5em !important; }
+.js_on .cufon-on .post-top h1, .js_on .cufon-on .post-top h2, .post-top h3 {font-size:1.883em !important; }
+
+#sidebarSubnav h3 {font-size:1.25em !important; }
+.js_on .cufon-on #sidebarSubnav h3 {font-size:1.5em !important; }
+
+.portfolio-items-wrapper h2 {font-size:1.333em !important; }
+.js_on .cufon-on .portfolio-items-wrapper h2 {font-size:1.667em !important; }
+h2.portfolio-single-column {font-size:1.667em !important; }
+.js_on .cufon-on h2.portfolio-single-column {font-size:2.18em !important; }
+
+h3.bottom-col-title {font-size:1.35em !important; }
+.js_on .cufon-on h3.bottom-col-title {font-size:1.6947em !important; }
+
+#gs-header #header-content { width:940px; }
+#c2-slider .slide-desc h2, #c2-slider .slide-desc { color:#333333; }
+#c2-slider .slide-desc h2 { font-size:1.8em !important; font-family:'Enriqueta'; line-height:1.7; }
+#c2-slider .slide-desc p, #c2-slider .slide-desc ul { font-size:1.2em; line-height:1.7; }
+#c3-slider .sliding-text { color:#FFFFFF; font-size:1.2em; line-height:1.7; }
+
+
+    @media screen and (min-width: 720px) {
+        #navigation-menu > ul.sf-menu {
+          float: none;
+          display: table;
+          margin: 0 auto;
+        }
+    }
+    
+
+body, .post-top h2 a, .post-top h3 a, .posts-counter { color:#333333; }
+a, #isotope-options li a:hover, #isotope-options li a.selected { color:#8A9F5A; }
+a:hover, .post-top h2 a:hover, .post-top h3 a:hover, #isotope-options li a { color:#333333; }
+.custom-formatting li.current_page_item > a, .custom-formatting li.current-menu-item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a { color: #333333; }
+.custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-menu-item > a:hover,.custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover { color: #8A9F5A; }
+h1,h2,h3,h4,h5,h6 { color:#8A9F5A; }
+    #top-wrapper { background-color:#FFFFFF; }
+#slogan, #top-elements .phone-number, #top-elements .social_media_title, #search input.blur, #search input.inputbox_focus { color:#000000; }
+#slogan{ color:#000000; }
+    #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header, #rev-slider-header { background-color:#CCCCCC; }
+#navigation-menu ul.sf-menu > li > a > span { color:#FFFFFF; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span, #navigation-menu ul.sf-menu > li.current_page_item > a > span { color:#FFFFFF; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span:hover, #navigation-menu ul.sf-menu > li.current_page_item > a > span:hover { color:#FFFFFF; }
+#navigation-menu ul.sf-menu > li > a:hover span { color:#FFFFFF; }
+#page-content-title #page-title h1, .js_on .cufon-on #page-content-title #page-title h1,
+#page-content-title #page-title h2, .js_on .cufon-on #page-content-title #page-title h2,
+#page-content-title #page-title h3, .js_on .cufon-on #page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories, .js_on .cufon-on #page-content-title #page-title .single-post-categories { color:#FFFFFF; }
+    #page-content-title { background-color:#000000; }
+    #before-content { background: url("../common-images/home-page-before-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, .no_title_section #page-content { background: url("../../../../uploads/2014/10/white-bg.png") repeat-y scroll center top #FFFFFF; }
+h3.before_cont_title { color:#333333; }
+#before-content { color:#333333; }
+    #before-content { background-color:#FFFFFF; }
+    #bottom-bg { background-color: #CCCCCC; }
+h3.bottom-col-title { color: #306748; }
+#bottom, #bottom .textwidget, #bottom #wp-calendar, #bottom .posts-counter { color: #333333; }
+#bottom a { color: #3D6E97; }
+#bottom a:hover { color: #000000; }
+h3.bottom-col-title, #bottom ul.small-thumb li, #bottom .widget_recent_entries li a, #bottom .widget_categories li a, #bottom .widget_pages li a, #bottom .widget_subpages li a, #bottom .widget_archive li a, #bottom .widget_links li a, #bottom .widget_rss li a, #bottom .widget_meta li a, #bottom .loginform li a, #bottom .widget_nav_menu li a {
+    background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent;
+}
+#bottom .widget_recent_comments li { background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent; }
+    #footer-bg { background-color: #EAEAEA; }
+body { background-color: #EAEAEA; }
+#footer, #footer_text { color: #797979; }
+#footer a, #footer_text a { color: #3D6E97; }
+#footer a:hover, #footer_text a:hover { color: #000000; }
+
+
+    @media screen and (max-width: 719px) {
+        #logo h1 a, #logo .site-name a { background:transparent url( ../../../../uploads/2014/09/Greenblock-Logo.jpg) no-repeat 0 100%; height:150px; }
+        #wrapper-1, #top-wrapper, #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header, #rev-slider-header, #page-content-title, #home-page-content, #page-content, .no_title_section #page-content, #before-content, #bottom-bg, #footer-bg { background-image:none; }
+    }
+    @media screen and (max-width: 959px) {
+        #c2-slider .slide-desc p, #c2-slider .slide-desc ul  { font-size:1.1em; line-height:1.6; }
+        ul#c2-slider li ul li { font-size:0.8em; }
+    }
+    @media screen and (max-width: 480px) {
+        #c2-slider .slide-desc h2 { font-size:1.4em !important; line-height:1.5; }
+    }
+    @media screen and (min-width: 720px) and (max-width: 959px) {
+        #c2-slider .slide-desc h2 { font-size:1.7em !important; line-height:1.6; }
+    }
+ 
+@media screen and (min-width: 720px) {
+    .u-design-fixed-menu-on.fixed-menu #top-wrapper { background-color:#FFFFFF; }
+}
